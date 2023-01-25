@@ -13,7 +13,6 @@ import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selectors.withText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
-import static ru.netology.data.DataGenerator.generateDate;
 import static ru.netology.data.DataGenerator.generateRequest;
 
 public class CardDeliveryTest {
